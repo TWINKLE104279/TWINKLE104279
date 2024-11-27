@@ -3,7 +3,7 @@
 - 👀 I’m interested in this course Al data scientist and machine learning engineers
 - 🌱 I’m currently learning accounting 
 - 💞️ I’m looking to collaborate with you on how l can stand out through the knowledge and skills of this course 
-- 📫 Reach me through this email, lindakunamvula@gmail.com
+- 📫 Reach me through this email:  lindakunamvula@gmail.com
 - 😄 Pronouns: She 
 - ⚡ Fun fact:  This course is good and more needed in many fields one may be, but it is so challenging on building an environment.
 
