@@ -1,4 +1,4 @@
-m- 🙈 This is an assignment file  
+- 🙈 This is an assignment file  
 - 👋 Hi, I’m @TWINKLE104279
 - 👀 I’m interested in this course Al data scientist and machine learning engineers
 - 🌱 I’m currently learning accounting 
